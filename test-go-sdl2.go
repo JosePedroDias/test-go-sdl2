@@ -1,7 +1,4 @@
-// based on: https://github.com/veandco/go-sdl2/blob/master/examples/render.go
 // author: José Pedro Dias
-// reference: http://wiki.libsdl.org/APIByCategory
-// reference: ~/go/src/github.com/veandco/go-sdl2/sdl/*.go
 
 package main
 
